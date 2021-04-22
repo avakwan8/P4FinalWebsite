@@ -1,0 +1,149 @@
+/*DEVELOPER: Ava Kwan, IS117-004, Spring Semester, 2021 */
+.navbar-brand{
+    font-family: "Bodoni MT";
+    font-stretch: ultra-condensed;
+    font-style: normal;
+    text-align: center;
+    font-size: 400%;
+    font-weight: bolder;
+
+}
+h4{
+    margin-right: 200px;
+    margin-left: 200px;
+}
+h5{
+    padding: 70px;
+    float: left;
+    alignment: left;
+}
+
+h5 img{
+    float: left;
+    max-width: 100%;
+    height: auto;
+    width: 300px;
+    padding: 4px;
+}
+.navbar-font{
+    font-family: "Bodoni MT Condensed";
+    font-size: 120%;
+    color: black;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.centernav{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+ul{
+    list-style-type: none;
+
+}
+ul li {
+    float: left;
+}
+.form-group{
+    text-align: center;
+}
+.city {
+    color: black;
+    font-family: "Tw Cen MT Condensed";
+}
+
+.navbar-dark{
+    background-color: white;
+}
+
+header{
+    text-align: center;
+}
+.navbar .navbar-nav{
+    text-align: center;
+    position: absolute;
+    left: 41.5%;
+}
+a:hover{
+    color: #58181F;
+    text-decoration: none;
+}
+
+label{
+    color: black;
+    font-family: "Tw Cen MT Condensed";
+    text-align: center;
+}
+.form-control{
+    color: black;
+    font-family: "Tw Cen MT Condensed";
+    text-align: center;
+}
+
+h4{
+    padding: 40px;
+}
+.col-sm-4{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 200px;
+    color: black;
+}
+.col-sm-4 p{
+    text-align: center;
+}
+.col-sm-4 img{
+    width: 150px;
+    height: auto;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.col-sm-6 img{
+    width: 150px;
+    height: auto;
+    max-width: 100%;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: black;
+}
+.col-sm-6{
+    color: black;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 200px;
+}
+.btn-primary {
+    color: white;
+    font-family: "Tw Cen MT Condensed";
+    background-color: #58181F;
+    text-align: center;
+}
+.btn-primary:hover{
+    background-color: #58181F;
+}
+hr{
+    width: 40%;
+    border-color: #3c280D;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 1em;
+}
